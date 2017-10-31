@@ -34,8 +34,6 @@ public class Login extends JFrame {
 	private JButton btnSignUp;
 
 
-	//Change name of this on laptop
-
 	boolean duplicateUsername = false;
 	StringBuilder password = new StringBuilder();
 
@@ -49,15 +47,9 @@ public class Login extends JFrame {
 	//Boolean to determine what opertating system this program is being run on. Defaults to windows
 	static boolean windows = true;
 
-
 	User user1;
 
-
-
-
-
 	FileWriter writer1;
-
 
 	static Login login;
 	boolean first = true;
