@@ -21,9 +21,6 @@ import java.awt.Color;
 
 public class Login extends JFrame {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = -4593051884611417379L;
 	//private static final long serialVersionUID = 1L;
 	private JPanel panelLogin;
